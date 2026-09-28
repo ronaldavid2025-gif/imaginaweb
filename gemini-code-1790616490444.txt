@@ -1,0 +1,9 @@
+mi-web-estatica/
+├── index.html
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   └── img/
+└── README.md
